@@ -1,2 +1,2 @@
-{'ver1':'1', 'ver2':'00', 'ver3':'\n[] ا\n[]إ\n[]ا\n[]  > []\n[] \n[]\n[] \n[]\n' , 'dli':'https://www.tech-git.com/2020/09/hamods.html
+{'ver1':'2', 'ver2':'00', 'ver3':'\n[] ا\n[]إ\n[]ا\n[]  > []\n[هناك نسخة جديدة] \n[]\n[] \n[]\n' , 'dli':'https://www.tech-git.com/2020/09/hamods.html
 '}
